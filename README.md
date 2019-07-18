@@ -1,2 +1,2 @@
 # Exploratory-Analysis
-Three cases in Exploratory analysis
+Four cases in Exploratory analysis
